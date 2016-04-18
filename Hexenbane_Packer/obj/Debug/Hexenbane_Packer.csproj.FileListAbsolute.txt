@@ -1,0 +1,6 @@
+c:\users\jonfe\documents\visual studio 2015\Projects\Hexenbane_Packer\Hexenbane_Packer\bin\Debug\Hexenbane_Packer.exe.config
+c:\users\jonfe\documents\visual studio 2015\Projects\Hexenbane_Packer\Hexenbane_Packer\bin\Debug\Hexenbane_Packer.exe
+c:\users\jonfe\documents\visual studio 2015\Projects\Hexenbane_Packer\Hexenbane_Packer\bin\Debug\Hexenbane_Packer.pdb
+c:\users\jonfe\documents\visual studio 2015\Projects\Hexenbane_Packer\Hexenbane_Packer\obj\Debug\Hexenbane_Packer.csprojResolveAssemblyReference.cache
+c:\users\jonfe\documents\visual studio 2015\Projects\Hexenbane_Packer\Hexenbane_Packer\obj\Debug\Hexenbane_Packer.exe
+c:\users\jonfe\documents\visual studio 2015\Projects\Hexenbane_Packer\Hexenbane_Packer\obj\Debug\Hexenbane_Packer.pdb
